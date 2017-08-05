@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">एंड्रॉइड API</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">जारी रखें</string>
+    <string name="arcgisruntime_client_cert_dialog_message">आपका प्रमाणीकरण करने के लिए सर्विस ने ग्राहक प्रमाणपत्र का अनुरोध किया है, जिसके लिए एक सुरक्षित लॉकस्क्रीन ज़रूरी है। यह डायलॉग बंद करने पर एक एंड्रॉइड डायलॉग खुलेगा, जहां आप अपना सुरक्षा प्रकार रद्द या बदल सकते हैं, जिससे आप कोई प्रमाणपत्र निर्दिष्ट कर पाएंगे।</string>
+    <string name="arcgisruntime_client_cert_dialog_title">ग्राहक प्रमाणपत्र का अनुरोध किया गया है</string>
+    <string formatted="false" name="arcgisruntime_created_by">%s द्वारा निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">%s द्वारा %s को %s बजे निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">%s द्वारा %s को %s बजे निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">एक घंटा पहले %s द्वारा निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">%d घंटे पहले %s द्वारा निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">एक मिनट पहले %s द्वारा निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">%s द्वारा %d मिनट पहले निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">कुछ सेकंड पहले %s द्वारा निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_day">%s को %s बजे निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_full">%s को %s बजे निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_hour">एक घंटा पहले निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_hours">%d घंटों पहले निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_minute">एक मिनट पहले निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">%d मिनट पहले निर्मित</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">कुछ सेकंड पहले निर्मित</string>
+    <string formatted="false" name="arcgisruntime_edited_by">%s द्वारा संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">%s द्वारा %s को %s बजे संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">%s द्वारा %s को %s बजे संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">एक घंटा पहले %s द्वारा संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">%d घंटे पहले %s द्वारा संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">एक मिनट पहले %s द्वारा संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">%d मिनट पहले %s द्वारा संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">कुछ सेकंड पहले %s द्वारा संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_day">%s को %s बजे संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_full">%s को %s बजे संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">एक घंटा पहले संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">%d घंटों पहले संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">एक मिनट पहले संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">%d मिनट पहले संपादित</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">कुछ सेकंड पहले संपादित</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">मान %d के अधिकतम क्षेत्र दैर्घ्य से अधिक है</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">" `%s` नामक फील्ड के लिए शून्य मान की अनुमति नहीं है"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">रद्द करें</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">लॉग इन करें</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">पासवर्ड</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">प्रमाणीकरण अपेक्षित है</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">यूजरनेम</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s से %s तक</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">ब्लॉक</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">भरोसा</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">यह सर्वर स्वयं को सिद्ध करने में अक्षम रहा; इसका सुरक्षा प्रमाणपत्र किसी दूसरे डोमेन से है। यह गलत कॉन्फ़िगरेशन या आपके कनेक्शन में हमलावर के दखल के कारण हुआ होगा। क्या आप फिर भी जारी रखना चाहते हैं?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">बेमेल होस्टनेम</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">याद है?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">यह सर्वर स्वयं को सिद्ध करने में अक्षम रहा; आपके OS ने इसके सुरक्षा प्रमाणपत्र पर भरोसा नहीं जताया है। क्या आप फिर भी जारी रखना चाहते हैं?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">अविश्वसनीय होस्ट</string>
+    <string name="arcgisruntime_sketcheditor_callout_clear">हटाएँ</string>
+    <string name="arcgisruntime_sketcheditor_callout_remove_vertex">शिरोबिंदु निकालें</string>
+</resources>

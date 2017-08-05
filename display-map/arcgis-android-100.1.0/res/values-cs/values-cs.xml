@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rozhraní API systému Android</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">Pokračovat</string>
+    <string name="arcgisruntime_client_cert_dialog_message">Služba si vyžádala certifikát klienta, aby mohla provést vaši autentizaci, což vyžaduje navíc i zabezpečenou zamykací obrazovku. Po zavření tohoto dialogového okna se zobrazí dialogové okno systému Android, kde můžete zrušit nebo změnit typ vašeho zabezpečení, což vám umožní zadat certifikát.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">Vyžadován certifikát klienta</string>
+    <string formatted="false" name="arcgisruntime_created_by">Vytvořil %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">Vytvořil %s dne %s v %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">Vytvořil %s dne %s v %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">Vytvořil %s před hodinou</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">Vytvořil %s před %d hodinami</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">Vytvořil %s a před minutou</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">Vytvořil %s před %d minutami</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">Vytvořil %s před několika vteřinami</string>
+    <string formatted="false" name="arcgisruntime_created_day">Vytvořil %s v %s</string>
+    <string formatted="false" name="arcgisruntime_created_full">Vytvořil %s v %s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">Vytvořeno před hodinou</string>
+    <string formatted="false" name="arcgisruntime_created_hours">Vytvořeno před %d hodinami</string>
+    <string formatted="false" name="arcgisruntime_created_minute">Vytvořeno před minutou</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">Vytvořeno před %d minutami</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">Vytvořeno před několika vteřinami</string>
+    <string formatted="false" name="arcgisruntime_edited_by">Upravil %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">Upravil %s dne %s v %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">Upravil %s dne %s v %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">Upravil %s před hodinou</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">Upravil %s před %d hodinami</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">Upravil %s před minutou</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">Upravil %s před %d minutami</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">Upravil %s před několika vteřinami</string>
+    <string formatted="false" name="arcgisruntime_edited_day">Upravil %s v %s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">Upravil %s v %s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">Upraveno před hodinou</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">Upraveno před %d hodinami</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">Upraveno před minutou</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">Upraveno před %d minutami</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">Upraveno před několika vteřinami</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">Hodnota přesahuje maximální délku pole %d.</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"Pro pole s názvem ‚%s‘ není povolena nulová hodnota."</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">Storno</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">Přihlásit se</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">Heslo</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">Požadováno ověření</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">Uživatelské jméno</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s až %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">Blokovat</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Důvěřovat</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">Tento server se nemohl prokázat. Jeho certifikát zabezpečení pochází z jiné domény. Může to být způsobeno nesprávnou konfigurací nebo proniknutím útočníka do vašeho připojení. Přejete si přesto pokračovat?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">Neshoda jména hostitele</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">Zapamatovat?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">Tento server se nemohl prokázat. Jeho certifikát není mezi důvěryhodnými certifikáty vašeho operačního systému. Přejete si přesto pokračovat?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">Nedůvěryhodný hostitel</string>
+    <string name="arcgisruntime_sketcheditor_callout_clear">Vymazat</string>
+    <string name="arcgisruntime_sketcheditor_callout_remove_vertex">Odebrat lomový bod</string>
+</resources>

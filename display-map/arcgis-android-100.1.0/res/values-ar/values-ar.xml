@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">واجهة برمجة تطبيقات Android</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">متابعة</string>
+    <string name="arcgisruntime_client_cert_dialog_message">تتطلب الخدمة شهادة عميل للمصادقة، التي تتطلب قفل الشاشة بشكل آمن. عند غلق هذا الحوار، سوف يفتح حوار آندرويد حيث يمكنك إلغاء أو تغيير  نوع الأمان الخاص بك، الذي سوف يتيح لك تحديد شهادة.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">تم طلب شهادة العميل</string>
+    <string formatted="false" name="arcgisruntime_created_by">تم الإنشاء بواسطة %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">تم الإنشاء بواسطة %s على %s عند %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">تم الإنشاء بواسطة %s على %s عند %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">تم الإنشاء بواسطة %s منذ ساعة</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">تم الإنشاء بواسطة %s منذ %d ساعة (ساعات)</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">تم الإنشاء بواسطة %s منذ دقيقة</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">تم الإنشاء بواسطة %s منذ %d دقيقة (دقائق)</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">تم الإنشاء بواسطة %s منذ ثوان</string>
+    <string formatted="false" name="arcgisruntime_created_day">تم الإنشاء بواسطة %s عند %s</string>
+    <string formatted="false" name="arcgisruntime_created_full">تم الإنشاء بواسطة %s عند %s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">تم الإنشاء منذ ساعة</string>
+    <string formatted="false" name="arcgisruntime_created_hours">تم الإنشاء منذ %d ساعة (ساعات)</string>
+    <string formatted="false" name="arcgisruntime_created_minute">تم الإنشاء منذ دقيقة</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">تم الإنشاء منذ %d دقيقة (دقائق)</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">تم الإنشاء منذ ثوانٍ</string>
+    <string formatted="false" name="arcgisruntime_edited_by">تم التحرير بواسطة %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">تم التحرير بواسطة %s على %s عند %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">تم التحرير بواسطة %s على %s عند %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">تم التحرير بواسطة %s منذ ساعة</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">تم التحرير بواسطة %s منذ %d ساعة (ساعات)</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">تم التحرير بواسطة %s منذ دقيقة</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">تم التحرير بواسطة %s منذ %d دقيقة (دقائق)</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">تم التحرير بواسطة %s منذ ثوان</string>
+    <string formatted="false" name="arcgisruntime_edited_day">تم التحرير بواسطة %s عند %s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">تم التحرير بواسطة %s عند %s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">تم التحرير منذ ساعة</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">تم التحرير منذ %d ساعة (ساعات)</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">تم التحرير منذ دقيقة</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">تم التحرير منذ %d دقيقة (دقائق)</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">تم التحرير منذ ثوانٍ</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">تتجاوز القيمة الحد الأقصى من طول حقل %d</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"غير مسموح للقيمة الخالية للحقل باسم `%s`"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">إلغاء الأمر</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">تسجيل الدخول</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">كلمة المرور</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">مطلوب المصادقة</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">اسم المستخدم</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s إلى %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">كتلة</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">الثقة</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">يتعذر إثبات الخادم ذاته؛ تكون شهادة الآمان من مجال آخر. هذا قد يؤدي إلى تكوين غير صحيح أو مُعتدي يعترض اتصالك. هل تود المتابعة بأي حال؟</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">اسم مضيف غير متطابق</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">تذكرني؟</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">يتعذر إثبات هذا الخادم ذاته؛ شهادة الأمان غير موثوقة من قبل OS. هل تود المتابعة بأي حال؟</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">مستضيف غير موثوق به</string>
+</resources>

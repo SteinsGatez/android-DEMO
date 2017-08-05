@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android API</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">Nastavi</string>
+    <string name="arcgisruntime_client_cert_dialog_message">Servis zahteva sertifikat klijenta kako bi uradio proveru identiteta, što dalje zahteva bezbedan zaključani ekran. Zatvaranje ovog dijaloga će otvoriti Android dijalog gde možete ili da otkažete ili da promenite tip sigurnosti, što vam omogućava da navedete sertifikat.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">Obavezan sertifikat klijenta</string>
+    <string formatted="false" name="arcgisruntime_created_by">Kreirao je %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">Kreirao je %s %s u %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">Kreirao je %s %s u %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">Kreirao je %s pre jedan sat</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">Kreirao je %s pre %d sati</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">Kreirao je %s pre jedan minut</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">Kreirao je %s pre %d minuta</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">Kreirao je %s pre nekoliko sekundi</string>
+    <string formatted="false" name="arcgisruntime_created_day">Kreirano je %s u %s</string>
+    <string formatted="false" name="arcgisruntime_created_full">Kreirano je %s u %s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">Kreirano pre jedan čas</string>
+    <string formatted="false" name="arcgisruntime_created_hours">Kreirano je pre %d sati</string>
+    <string formatted="false" name="arcgisruntime_created_minute">Kreirano pre jedan minut</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">Kreirano je pre %d minuta</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">Kreirano pre nekoliko sekundi</string>
+    <string formatted="false" name="arcgisruntime_edited_by">Izmenio %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">Izmenio je %s %s u %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">Izmenio je %s %s u %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">Izmenio je %s pre jedan sat</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">Izmenio je %s pre %d sati</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">Izmenio je %s pre jedan minut</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">Izmenio je %s pre %d minuta</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">Izmenio je %s pre nekoliko sekundi</string>
+    <string formatted="false" name="arcgisruntime_edited_day">Izmenjeno je %s u %s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">Izmenjeno je %s u %s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">Izmenjeno pre jedan sat</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">Izmenjeno je pre %d sati</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">Izmenjeno pre jedan minut</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">Izmenjeno je pre %d minuta</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">Izmenjeno pre nekoliko sekundi</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">Vrednost prekoračuje maksimalnu dužinu polja od %d</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"Prazna vrednost nije dozvoljena za polje pod nazivom `%s`"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">Otkaži</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">Prijavi se</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">Lozinka</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">Potvrda identiteta je obavezna</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">Korisničko ime</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s u %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">Blokiraj</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Pouzdano je</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">Ovaj server nije mogao da dokaže identitet , sertifikat njegove sigurnosti je iz drugog domena. Ovo može da bude uzrokovano greškom u konfiguraciji ili napadačem koji presreće vašu vezu. Da li ipak želite da nastavite?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">Nepodudaranje imena hosta</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">Zapamti?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">Ovaj server nije mogao da dokaže identitet; vaš OS ne pokazuje poverenje u njegov bezbednosni sertifikat. Da li ipak želite da nastavite?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">Nepouzdan host</string>
+</resources>

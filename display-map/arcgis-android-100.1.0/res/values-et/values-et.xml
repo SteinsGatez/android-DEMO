@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android API</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">Jätka</string>
+    <string name="arcgisruntime_client_cert_dialog_message">Teenus nõuab teie autentimiseks kliendisertifikaati, mis nõuab omakorda turvalist lukustuskuva. Selle dialoogi sulgemisel avatakse Androidi dialoog, kus saate oma turbetüübi tühistada või seda muuta. Nii saate sertifikaadi määrata.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">Kliendisertifikaat on nõutav</string>
+    <string formatted="false" name="arcgisruntime_created_by">Lõi %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">Lõi %s %s kell %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">Lõi %s %s kell %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">Lõi %s üks tund tagasi</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">Lõi %s %d tundi tagasi</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">Lõi %s üks minut tagasi</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">Lõi %s %d minutit tagasi</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">Lõi %s mõned sekundid tagasi</string>
+    <string formatted="false" name="arcgisruntime_created_day">Loodud %s kell %s</string>
+    <string formatted="false" name="arcgisruntime_created_full">Loodud %s kell %s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">Loodud üks tund tagasi</string>
+    <string formatted="false" name="arcgisruntime_created_hours">Loodud %d tundi tagasi</string>
+    <string formatted="false" name="arcgisruntime_created_minute">Loodud minut tagasi</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">Loodud %d minutit tagasi</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">Loodud mõned sekundid tagasi</string>
+    <string formatted="false" name="arcgisruntime_edited_by">Muutis %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">Muutis %s %s kell %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">Muutis %s %s kell %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">Muutis %s üks tund tagasi</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">Muutis %s %d tundi tagasi</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">Muutis %s üks minut tagasi</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">Muutis %s %d minutit tagasi</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">Muutis %s mõned sekundid tagasi</string>
+    <string formatted="false" name="arcgisruntime_edited_day">Muudetud %s kell %s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">Muudetud %s kell %s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">Muudetud üks tund tagasi</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">Muudetud %d tundi tagasi</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">Muudetud üks minut tagasi</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">Muudetud %d minutit tagasi</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">Muudetud mõned sekundid tagasi</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">Väärtus ületab välja maksimaalset pikkust %d</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"Välja nimega \"%s\" korral ei ole nullväärtus lubatud"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">Loobu</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">Logi sisse</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">Parool</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">Autentimine on vajalik</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">Kasutajanimi</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s kuni %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">Blokeeri</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Usaldus</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">See server ei tõestanud ennast, selle turbesertifikaat pärineb teisest domeenist. Põhjuseks võib olla vale konfiguratsioon või ründaja, kes teie ühendust kasutab. Kas soovite ikkagi jätkata?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">Sobimatu hostinimi</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">Kas mäletate?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">See server ei tõestanud ennast, teie operatsioonisüsteem ei usalda selle turbesertifikaati. Kas soovite ikkagi jätkata?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">Ebausaldusväärne host</string>
+</resources>

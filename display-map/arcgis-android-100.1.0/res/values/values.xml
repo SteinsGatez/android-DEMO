@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android API</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">Continue</string>
+    <string name="arcgisruntime_client_cert_dialog_message">The service has requested a client certificate to authenticate you, which further requires a secure lockscreen. Closing this dialog will open an Android dialog where you can either cancel or change your security type, which will allow you to specify a certificate.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">Client Certificate Requested</string>
+    <string formatted="false" name="arcgisruntime_created_by">Created by %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">Created by %s on %s at %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">Created by %s on %s at %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">Created by %s an hour ago</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">Created by %s %d hours ago</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">Created by %s a minute ago</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">Created by %s %d minutes ago</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">Created by %s seconds ago</string>
+    <string formatted="false" name="arcgisruntime_created_day">Created on %s at %s</string>
+    <string formatted="false" name="arcgisruntime_created_full">Created on %s at %s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">Created an hour ago</string>
+    <string formatted="false" name="arcgisruntime_created_hours">Created %d hours ago</string>
+    <string formatted="false" name="arcgisruntime_created_minute">Created a minute ago</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">Created %d minutes ago</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">Created seconds ago</string>
+    <string formatted="false" name="arcgisruntime_edited_by">Edited by %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">Edited by %s on %s at %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">Edited by %s on %s at %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">Edited by %s an hour ago</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">Edited by %s %d hours ago</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">Edited by %s a minute ago</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">Edited by %s %d minutes ago</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">Edited by %s seconds ago</string>
+    <string formatted="false" name="arcgisruntime_edited_day">Edited on %s at %s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">Edited on %s at %s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">Edited an hour ago</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">Edited %d hours ago</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">Edited a minute ago</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">Edited %d minutes ago</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">Edited seconds ago</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">Value exceeds maximum field length of %d</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"Null value is not allowed for field named `%s`"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">Cancel</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">Log in</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">Password</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">Authentication Required</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">Username</string>
+    <string name="arcgisruntime_mapview_logo_string">Powered by <a color="#828282" href="http://www.esri.com/">Esri</a></string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s to %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">Block</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Trust</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">This server could not prove itself; its security certificate is from another domain. This may caused by a misconfiguration or an attacker intercepting your connection. Would you like to continue anyway?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">Mismatched Hostname</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">Remember?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">This server could not prove itself; its security certificate is not trusted by your OS. Would you like to continue anyway?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">Untrusted Host</string>
+    <string name="arcgisruntime_sketcheditor_callout_clear">Clear</string>
+    <string name="arcgisruntime_sketcheditor_callout_remove_vertex">Remove Vertex</string>
+    <style name="arcgisruntime_theme_auth_dialog" parent="android:Theme.DeviceDefault.Dialog">
+    </style>
+</resources>

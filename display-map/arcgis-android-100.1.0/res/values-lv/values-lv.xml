@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android API</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">Turpināt</string>
+    <string name="arcgisruntime_client_cert_dialog_message">Pakalpojums jūsu autentificēšanai pieprasīja klienta sertifikātu, kam savukārt nepieciešams drošs bloķēšanas ekrāns. Aizverot šo dialoglodziņu, tiks atvērts Android dialoglodziņš, kurā varat atcelt vai mainīt savu drošības tipu, un tad jums būs iespēja norādīt sertifikātu.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">Pieprasīts klienta sertifikāts</string>
+    <string formatted="false" name="arcgisruntime_created_by">Izveidoja lietotājs %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">Izveidoja lietotājs %s šādā datumā un laikā: %s %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">Izveidoja lietotājs %s šādā datumā un laikā: %s %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">Izveidoja lietotājs %s pirms stundas</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">Izveidoja lietotājs %s pirms %d stundas(ām)</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">Izveidoja lietotājs %s pirms minūtes</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">Izveidoja lietotājs %s pirms %d minūtes(ēm)</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">Izveidoja lietotājs %s pirms dažām sekundēm</string>
+    <string formatted="false" name="arcgisruntime_created_day">Izveidoja lietotājs %s šādā laikā: %s</string>
+    <string formatted="false" name="arcgisruntime_created_full">Izveidoja lietotājs %s šādā laikā: %s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">Izveidots pirms stundas</string>
+    <string formatted="false" name="arcgisruntime_created_hours">Izveidots pirms %d stundas(ām)</string>
+    <string formatted="false" name="arcgisruntime_created_minute">Izveidots pirms minūtes</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">Izveidots pirms %d minūtes(ēm)</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">Izveidots pirms dažām sekundēm</string>
+    <string formatted="false" name="arcgisruntime_edited_by">Rediģēja lietotājs %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">Rediģēja lietotājs %s šādā datumā un laikā: %s %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">Rediģēja lietotājs %s šādā datumā un laikā: %s %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">Rediģēja lietotājs %s pirms stundas</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">Rediģēja lietotājs %s pirms %d stundas(ām)</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">Rediģēja lietotājs %s pirms minūtes</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">Rediģēja lietotājs %s pirms %d minūtes(ēm)</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">Rediģēja lietotājs %s pirms dažām sekundēm</string>
+    <string formatted="false" name="arcgisruntime_edited_day">Rediģēja lietotājs %s šādā laikā: %s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">Rediģēja lietotājs %s šādā laikā: %s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">Rediģēts pirms stundas</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">Rediģēts pirms %d stundas(ām)</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">Rediģēts pirms minūtes</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">Rediģēts pirms %d minūtes(ēm)</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">Rediģēts pirms dažām sekundēm</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">Vērtība pārsniedz maksimālo lauka garumu (%d)</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"Nulles vērtība nav atļauta laukā ar nosaukumu “%s”"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">Atcelt</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">Pieteikties</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">Parole</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">Nepieciešama autentifikācija</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">Lietotājvārds</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s–%s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">Bloķēt</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Uzticēties</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">Šis serveris nevarēja sevi apliecināt, un tā drošības sertifikāts ir no cita domēna. To var izraisīt nepareiza konfigurācija vai uzbrucēja pārtverts savienojums. Vai tomēr vēlaties turpināt?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">Neatbilstīgs servera nosaukums</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">Vai atcerēties?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">Šis serveris nevarēja sevi apliecināt, un jūsu operētājsistēma neuzticas tā sertifikātam. Vai tomēr vēlaties turpināt?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">Neuzticams serveris</string>
+</resources>

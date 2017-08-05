@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android-ohjelmointirajapinta</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">Jatka</string>
+    <string name="arcgisruntime_client_cert_dialog_message">Palvelu on pyytänyt asiakasvarmennetta todentamaan sinut. Se edellyttää edelleen suojattua lukitusnäyttöä. Tämän valintaikkunan sulkeminen avaa Android-valintaikkunan, jossa voit joko peruuttaa tai muuttaa suojaustyyppiä, jonka jälkeen voit määrittää varmenteen.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">Asiakasvarmenne pyydetty</string>
+    <string formatted="false" name="arcgisruntime_created_by">Luonut %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">Luonut %s %s klo %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">Luonut %s %s klo %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">Luonut %s tunti sitten</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">Luonut %s %d tuntia sitten</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">Luonut %s minuutti sitten</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">Luonut %s %d minuuttia sitten</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">Luonut %s sekuntia sitten</string>
+    <string formatted="false" name="arcgisruntime_created_day">Luotu %s klo %s</string>
+    <string formatted="false" name="arcgisruntime_created_full">Luotu %s klo%s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">Luotu tunti sitten</string>
+    <string formatted="false" name="arcgisruntime_created_hours">Luotu %d tuntia sitten</string>
+    <string formatted="false" name="arcgisruntime_created_minute">Luotu minuuttia sitten</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">Luotu %d minuuttia sitten</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">Luotu sekuntia sitten</string>
+    <string formatted="false" name="arcgisruntime_edited_by">Muokannut %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">Muokannut %s %s klo %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">Muokannut %s %s klo %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">Muokannut %s tunti sitten</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">Muokannut %s %d tuntia sitten</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">Muokannut %s minuutti sitten</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">Muokannut %s %d minuuttia sitten</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">Muokannut %s sekuntia sitten</string>
+    <string formatted="false" name="arcgisruntime_edited_day">Muokattu %s klo %s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">Muokattu %s klo %s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">Muokattu tunti sitten</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">Muokattu %d tuntia sitten</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">Muokattu minuuttia sitten</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">Muokattu %d minuuttia sitten</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">Muokattu sekuntia sitten</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">Arvo ylittää kentän enimmäispituuden (%d)</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"Tyhjäarvoa ei sallita kentän nimessä %s"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">Peruuta</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">Kirjaudu</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">Salasana</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">Todennus vaaditaan</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">Käyttäjätunnus</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s – %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">Estä</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Luota</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">Tämä palvelin ei voi todentaa itseään; sen suojausvarmenne on toisesta verkkoalueesta. Tämä voi johtua siitä, että kokoonpano on määritetty väärin tai hyökkääjä on katkaissut yhteytesi. Haluatko silti jatkaa?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">Isäntänimi ei täsmää</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">Muistetaanko?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">Tämä palvelin ei voi todentaa itseään; käyttöjärjestelmäsi ei luota sen suojausvarmenteeseen. Haluatko silti jatkaa?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">Isäntään ei luoteta</string>
+    <string name="arcgisruntime_sketcheditor_callout_clear">Tyhjennä</string>
+    <string name="arcgisruntime_sketcheditor_callout_remove_vertex">Poista taitepiste</string>
+</resources>

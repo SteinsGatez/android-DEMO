@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.esri.arcgisruntime"
+    android:versionCode="1"
+    android:versionName="100.1.0" > <!-- Note: manifest settings specified here get merged into the aar - don't add any permission related settings. Users are required to specify permissions in their application's manifest. -->
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="25" />
+
+</manifest>

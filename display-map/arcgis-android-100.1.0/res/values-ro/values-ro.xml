@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android API</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">Continuare</string>
+    <string name="arcgisruntime_client_cert_dialog_message">Serviciul a solicitat un certificat de client pentru a vă autentifica, ceea ce necesită şi un ecran de blocare sigur. Dacă închideţi această casetă se va deschide o casetă Android unde puteţi alege fie să anulaţi, fie să schimbaţi tipul de securitate, ceea ce vă permite să specificaţi un certificat.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">Certificatul de client este necesar</string>
+    <string formatted="false" name="arcgisruntime_created_by">Creat de %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">Creat de %s pe %s la %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">Creat de %s pe %s la %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">Creat de %s acum o oră</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">Creat de %s acum %d ore</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">Creat de %s acum un minut</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">Creat de %s acum %d minute</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">Creat de %s acum câteva secunde</string>
+    <string formatted="false" name="arcgisruntime_created_day">Creat pe %s la %s</string>
+    <string formatted="false" name="arcgisruntime_created_full">Creat pe %s la %s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">Creat cu o oră în urmă</string>
+    <string formatted="false" name="arcgisruntime_created_hours">Creat acum %d ore</string>
+    <string formatted="false" name="arcgisruntime_created_minute">Creat acum un minut</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">Creat acum %d minute</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">Creat acum câteva secunde</string>
+    <string formatted="false" name="arcgisruntime_edited_by">Editat de %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">Editat de %s pe %s la %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">Editat de %s pe %s la %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">Editat de %s acum o oră</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">Editat de %s acum %d ore</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">Editat de %s acum un minut</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">Editat de %s acum %d minute</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">Editat de %s acum câteva secunde</string>
+    <string formatted="false" name="arcgisruntime_edited_day">Editat pe %s la %s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">Editat pe %s la %s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">Editat acum o oră</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">Editat acum %d ore</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">Editat acum un minut</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">Editat acum %d minute</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">Editat acum câteva secunde</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">Valoarea depăşeşte lungimea maximă a câmpului de %d</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"Nu se permite o valoare nulă pentru câmpul denumit `%s`"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">Anulare</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">Autentificare</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">Parolă</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">Autentificare necesară</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">Nume utilizator</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s la %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">Cvartal</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Trust</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">Acest server nu s-a putut verifica; certificatul său de securitate este de pe alt domeniu. Aceasta poate fi cauzată de o configurare greşită sau de interceptarea conexiunii de către un atacator.</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">Numele de gazdă nu se potriveşte</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">Reţineţi?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">Acest server nu s-a putut verifica; certificatul său de securitate nu este recunoscut de sistemul nostru de operare. Doriţi să continuaţi oricum?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">Gazda nu este de încredere</string>
+    <string name="arcgisruntime_sketcheditor_callout_clear">Golire</string>
+    <string name="arcgisruntime_sketcheditor_callout_remove_vertex">Eliminare vertex</string>
+</resources>

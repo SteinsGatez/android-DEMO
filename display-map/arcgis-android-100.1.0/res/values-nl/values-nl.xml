@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android API</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">Doorgaan</string>
+    <string name="arcgisruntime_client_cert_dialog_message">De service heeft een clientcertificaat gevraagd om u te verifiëren, dat een veilig slotscherm vereist. Door het sluiten van deze dialoog wordt een Android-dialoogvenster geopend waar u uw veiligheidstype kunt annuleren of wijzigen waardoor u een ​​certificaat kunt specificeren.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">Client-certificaat gevraagd</string>
+    <string formatted="false" name="arcgisruntime_created_by">Gemaakt door %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">Gemaakt door %s op %s om %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">Gemaakt door %s op %s om %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">Een uur geleden gemaakt door %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">%d uren geleden gemaakt door %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">Een minuut geleden gemaakt door %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">%d minuten geleden gemaakt door %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">Enkele seconden geleden gemaakt door %s</string>
+    <string formatted="false" name="arcgisruntime_created_day">Gemaakt op %s om %s</string>
+    <string formatted="false" name="arcgisruntime_created_full">Gemaakt op %s om %s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">Een uur geleden gemaakt</string>
+    <string formatted="false" name="arcgisruntime_created_hours">%d uur geleden gemaakt</string>
+    <string formatted="false" name="arcgisruntime_created_minute">Een minuut geleden gemaakt</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">%d minuten geleden gemaakt</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">Een paar seconden geleden gemaakt</string>
+    <string formatted="false" name="arcgisruntime_edited_by">Bewerkt door %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">Bewerkt door %s op %s om %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">Bewerkt door %s op %s om %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">Een uur geleden bewerkt door %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">%d uren geleden bewerkt door %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">Een minuut geleden bewerkt door %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">%d minuten geleden bewerkt door %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">Enkele seconden geleden bewerkt door %s</string>
+    <string formatted="false" name="arcgisruntime_edited_day">Bewerk op %s om %s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">Bewerk op %s om %s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">Een uur geleden bewerkt</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">%d uur geleden bewerkt</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">Een minuut geleden bewerkt</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">%d minuten geleden bewerkt</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">Enkele seconden geleden bewerkt</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">Waarde overschrijdt maximale veldlengte van %d</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"Null-waarde is niet toegestaan ​​voor het veld met de naam`%s`"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">Annuleren</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">Aanmelden</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">Wachtwoord</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">Authentication Required</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">Gebruikersnaam</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s naar %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">Buurt</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Vertrouwen</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">Deze server kon zich niet bewijzen; het beveiligingscertificaat is van een ander domein. Dit kan veroorzaakt worden door een verkeerde configuratie of een aanvaller die uw verbinding heeft onderschept. Wilt u toch doorgaan?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">Verkeerd gekoppelde hostnaam</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">Onthouden?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">Deze server kon zich niet bewijzen; het veiligheidscertificaat wordt niet vertrouwd door uw besturingssysteem. Wilt u toch doorgaan?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">Niet-vertrouwde host</string>
+    <string name="arcgisruntime_sketcheditor_callout_clear">Annuleren</string>
+    <string name="arcgisruntime_sketcheditor_callout_remove_vertex">Vertex verwijderen</string>
+</resources>

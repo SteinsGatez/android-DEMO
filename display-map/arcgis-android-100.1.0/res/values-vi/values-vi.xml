@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">API Android</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">Tiếp</string>
+    <string name="arcgisruntime_client_cert_dialog_message">Dịch vụ yêu cầu chứng chỉ khách hàng để xác thực, xa hơn là yêu cầu tạo khóa bảo mật màn hình. Việc đóng hộp thoại này sẽ mở hộp thoại Android để bạn có thể hủy hoặc thay đổi loại bảo mật, cho phép khách hàng xác định chứng chỉ.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">Đòi hỏi chứng chỉ khách hàng</string>
+    <string formatted="false" name="arcgisruntime_created_by">Được tạo bởi %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">Được tạo bởi %s vào %s lúc %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">Được tạo bởi %s vào %s lúc %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">Được tạo bởi %s một giờ trước</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">Được tạo bởi %s %d giờ trước</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">Được tạo bởi %s một phút trước</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">Được tạo bởi %s %d phút trước</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">Được tạo bởi %s giây trước</string>
+    <string formatted="false" name="arcgisruntime_created_day">Được tạo vào %s lúc %s</string>
+    <string formatted="false" name="arcgisruntime_created_full">Được tạo vào %s lúc %s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">Được tạo một giờ trước</string>
+    <string formatted="false" name="arcgisruntime_created_hours">Được tạo cách đây %d giờ</string>
+    <string formatted="false" name="arcgisruntime_created_minute">Được tạo một phút trước</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">Được tạo cách đây %d phút</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">Được tạo vài giây trước</string>
+    <string formatted="false" name="arcgisruntime_edited_by">Được chỉnh sửa bởi %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">Được chỉnh sửa bởi %s vào %s lúc %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">Được chỉnh sửa bởi %s vào %s lúc %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">Được chỉnh sửa bởi %s một giờ trước</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">Được chỉnh sửa bởi %s %d giờ trước</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">Được chỉnh sửa bởi %s một phút trước</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">Được chỉnh sửa bởi %s %d phút trước</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">Được chỉnh sửa bởi %s giây trước</string>
+    <string formatted="false" name="arcgisruntime_edited_day">Được chỉnh sửa vào %s lúc%s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">Được chỉnh sửa vào %s lúc%s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">Được sửa một giờ trước</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">Được chỉnh sửa %d giờ trước</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">Được sửa một phút trước</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">Được chỉnh sửa cách đây %d phút</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">Được sửa vài giây trước</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">Giá trị vượt quá độ dài trường tối đa là %d</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"Không cho phép giá trị rỗng cho tên trường `%s`"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">Hủy</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">Đăng nhập</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">Mật khẩu</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">Yêu cầu Xác thực</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">Tên người dùng</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s đến %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">Chặn</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Tin cậy</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">Server không xác minh được; chứng chỉ bảo mật của server từ domain khác. Điều này có thể do lỗi cấu hình hoặc kẻ tấn công đã chặn kết nối của bạn. Bạn vẫn muốn tiếp tục?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">Tên máy chủ không khớp</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">Ghi nhớ?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">Server không xác minh được, OS thông báo chứng chỉ bảo mật không đáng tin cậy. Bạn vẫn muốn tiếp tục?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">Máy chủ không đáng tin cậy</string>
+    <string name="arcgisruntime_sketcheditor_callout_clear">Xóa</string>
+    <string name="arcgisruntime_sketcheditor_callout_remove_vertex">Gỡ bỏ Vertex</string>
+</resources>

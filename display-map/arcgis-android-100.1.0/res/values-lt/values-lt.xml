@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android API</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">Tęsti</string>
+    <string name="arcgisruntime_client_cert_dialog_message">Paslaugai reikia nurodyti kliento sertifikatą, kad galėtų jus autentifikuoti, o tam reikia saugaus užrakto ekrano. Uždarius šį dialogo langą, atsidarys Android dialogo langas, kuriame galėsite atšaukti arba pakeisti saugos tipą, o tada – nurodyti sertifikatą.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">Reikalingas kliento sertifikatas</string>
+    <string formatted="false" name="arcgisruntime_created_by">Sukūrė %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">%s %s sukūrė %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">%s %s sukūrė %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">Prieš valandą sukūrė %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">Prieš %d val. sukūrė %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">Prieš minutę sukūrė %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">Prieš %d min. sukūrė %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">Prieš keletą sekundžių sukūrė %s</string>
+    <string formatted="false" name="arcgisruntime_created_day">Sukurtas %s %s</string>
+    <string formatted="false" name="arcgisruntime_created_full">Sukurtas %s %s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">Sukurtas prieš valandą</string>
+    <string formatted="false" name="arcgisruntime_created_hours">Sukurtas prieš %d val.</string>
+    <string formatted="false" name="arcgisruntime_created_minute">Sukurtas prieš minutę</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">Sukurtas prieš %d min.</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">Sukurtas prieš keletą sekundžių</string>
+    <string formatted="false" name="arcgisruntime_edited_by">Redagavo %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">%s %s redagavo %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">%s %s redagavo %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">Prieš valandą redagavo %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">Prieš %d val. redagavo %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">Prieš minutę redagavo %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">Prieš %d min. redagavo %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">Prieš keletą sekundžių redagavo %s</string>
+    <string formatted="false" name="arcgisruntime_edited_day">Redaguotas %s %s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">Redaguotas %s %s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">Redaguotas prieš valandą</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">Redaguotas prieš %d val.</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">Redaguotas prieš minutę</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">Redaguotas prieš %d min.</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">Redaguotas prieš keletą sekundžių</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">Reikšmė viršija maksimalų lauko ilgį %d</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"Laukelyje %s neleidžiama naudoti nulinės reikšmės"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">Atšaukti</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">Prisijunkite</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">Slaptažodis</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">Reikalingas autentikavimas</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">Vartotojo vardas</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">Nuo %s iki %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">Blokuoti</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Patikimumas</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">Šis serveris negali savęs autentifikuoti. Jo saugos sertifikatas priklauso kitam domenui. Taip galėjo atsitikti dėl netinkamos konfigūracijos arba įsilaužėlis bando nutraukti jūsų ryšį. Ar vis tiek norite tęsti?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">Neatitinka serverio pavadinimas</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">Prisiminti?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">Šis serveris negali savęs autentifikuoti. Jo saugos sertifikatas jūsų OS yra nepatikimas. Ar vis tiek norite tęsti?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">Nepatikimas serveris</string>
+</resources>

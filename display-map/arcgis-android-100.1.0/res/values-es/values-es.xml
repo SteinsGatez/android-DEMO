@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">API AAPI de Android</string>
+    <string name="arcgisruntime_client_cert_dialog_button_positive">Continuar</string>
+    <string name="arcgisruntime_client_cert_dialog_message">El servicio ha solicitado un certificado de cliente para autenticarle y se necesita además una pantalla de bloqueo segura. Al cerrar este cuadro de diálogo se abrirá un cuadro de diálogo de Android en el que puede cancelar o cambiar su tipo de seguridad, lo que le permitirá especificar un certificado.</string>
+    <string name="arcgisruntime_client_cert_dialog_title">Certificado de cliente solicitado</string>
+    <string formatted="false" name="arcgisruntime_created_by">Creado por %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_day">Creado por %s el %s a las %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_full">Creado por %s el %s a las %s</string>
+    <string formatted="false" name="arcgisruntime_created_by_hour">Creado por %s hace una hora</string>
+    <string formatted="false" name="arcgisruntime_created_by_hours">Creado por %s hace %d horas</string>
+    <string formatted="false" name="arcgisruntime_created_by_minute">Creado por %s hace un minuto</string>
+    <string formatted="false" name="arcgisruntime_created_by_minutes">Creado por %s hace %d minutos</string>
+    <string formatted="false" name="arcgisruntime_created_by_seconds">Creado por %s hace unos segundos</string>
+    <string formatted="false" name="arcgisruntime_created_day">Creado el %s a las %s</string>
+    <string formatted="false" name="arcgisruntime_created_full">Creado el %s a las %s</string>
+    <string formatted="false" name="arcgisruntime_created_hour">Creado hace una hora</string>
+    <string formatted="false" name="arcgisruntime_created_hours">Creado hace %d horas</string>
+    <string formatted="false" name="arcgisruntime_created_minute">Creado hace un minuto</string>
+    <string formatted="false" name="arcgisruntime_created_minutes">Creado hace %d minutos</string>
+    <string formatted="false" name="arcgisruntime_created_seconds">Creado hace unos segundos</string>
+    <string formatted="false" name="arcgisruntime_edited_by">Editado por %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_day">Editado por %s el %s a las %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_full">Editado por %s el %s a las %s</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hour">Editado por %s hace una hora</string>
+    <string formatted="false" name="arcgisruntime_edited_by_hours">Editado por %s hace %d horas</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minute">Editado por %s hace un minuto</string>
+    <string formatted="false" name="arcgisruntime_edited_by_minutes">Editado por %s hace %d minutos</string>
+    <string formatted="false" name="arcgisruntime_edited_by_seconds">Editado por %s hace unos segundos</string>
+    <string formatted="false" name="arcgisruntime_edited_day">Editado el %s a las %s</string>
+    <string formatted="false" name="arcgisruntime_edited_full">Editado el %s a las %s</string>
+    <string formatted="false" name="arcgisruntime_edited_hour">Editado hace una hora</string>
+    <string formatted="false" name="arcgisruntime_edited_hours">Editado hace %d horas</string>
+    <string formatted="false" name="arcgisruntime_edited_minute">Editado hace un minuto</string>
+    <string formatted="false" name="arcgisruntime_edited_minutes">Editado hace %d minutos</string>
+    <string formatted="false" name="arcgisruntime_edited_seconds">Editado hace unos segundos</string>
+    <string formatted="false" name="arcgisruntime_error_max_field_length">El valor excede la longitud máxima de campo de %d</string>
+    <string name="arcgisruntime_error_null_value_not_allowed">"El valor nulo no se admite para el campo llamado`%s`"</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_negative">Cancelar</string>
+    <string name="arcgisruntime_http_auth_request_dialog_button_positive">Iniciar sesión</string>
+    <string name="arcgisruntime_http_auth_request_dialog_password_hint">Contraseña</string>
+    <string name="arcgisruntime_http_auth_request_dialog_title">Autenticación requerida</string>
+    <string name="arcgisruntime_http_auth_request_dialog_username_hint">Nombre de usuario</string>
+    <string formatted="false" name="arcgisruntime_range_domain_string">%s a %s</string>
+    <string name="arcgisruntime_self_signed_dialog_button_negative">Bloque</string>
+    <string name="arcgisruntime_self_signed_dialog_button_positive">Confianza</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_host">Este servidor no ha podido probarse a sí mismo; su certificado de seguridad es de otro dominio. Esto puede deberse a una diferencia de configuración o a que un intruso ha interceptado su conexión. ¿Desea continuar de todas formas?</string>
+    <string name="arcgisruntime_self_signed_dialog_mismatched_title">El nombre de host no coincide</string>
+    <string name="arcgisruntime_self_signed_dialog_remember">¿Recuerda?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_host">Este servidor no ha podido probarse a sí mismo; su sistema operativo no confía en el certificado de seguridad. ¿Desea continuar de todas formas?</string>
+    <string name="arcgisruntime_self_signed_dialog_untrusted_title">Host no de confianza</string>
+    <string name="arcgisruntime_sketcheditor_callout_clear">Borrar</string>
+    <string name="arcgisruntime_sketcheditor_callout_remove_vertex">Eliminar vértice</string>
+</resources>
