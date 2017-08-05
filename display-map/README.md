@@ -8,6 +8,7 @@ It shows how to inflate a `MapView` in the layout XML of the activity, create a 
 * ArcGISMap
 * MapView
 * Basemap
+* Edit by zss
 
 ## Developer Pattern
 Create a `ArcGISMap` with a `Basemap.Type` and an initial viewpoint. 
